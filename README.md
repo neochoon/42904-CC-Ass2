@@ -68,6 +68,8 @@ the use of following key concepts:
     Party       private
     Document    Public Read/Write
 ```
+![Role Hierarchy]("Role Hierarchy.jpeg")
+
 
 ### (v) Email Notification (Minimum two successful implementations of email notification automation process using workflow mechanisms)
     Approved_Contract
