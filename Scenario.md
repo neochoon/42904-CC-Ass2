@@ -12,7 +12,7 @@ To create a party, link it with a contract, attach a document to the contract, a
 **Entity:** Party
 
 **Details:**
-- **Party ID**: P0010
+- **Party ID**: P0010 (AUTO)
 - **Party Name**: XYZ Corporation
 - **Party Type**: Partner
 - **Address**: 123 Business Street, Business City, BC 12345
@@ -29,7 +29,7 @@ To create a party, link it with a contract, attach a document to the contract, a
 **Entity:** MContract
 
 **Details:**
-- **Contract ID**: C0010
+- **Contract ID**: C0010 (AUTO)
 - **Contract Name**: Service Agreement with XYZ Corp
 - **Start Date**: 2024-06-01
 - **End Date**: 2025-05-31
