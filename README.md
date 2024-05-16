@@ -7,11 +7,12 @@ Cloud Computing and Software as a Service Assignment (42904) Assignment 2 - Appl
 * Lin Chen 24905111
 * Zixuan Wang 24866523
 
-## Assessment Item 1: Software Application Development using Force.com platform (15% of the overall subject mark/grade):
+### Assessment Item 1: Software Application Development using Force.com platform (15% of the overall subject mark/grade):
 
 Make use of Force.com PaaS to engineer a software prototype to address the organization-
 specific business problem that you have selected. Your prototype system should demonstrate
 the use of following key concepts:
+
 
 ### (i) Data Objects (Minimum three objects showing look up (association) and master- detail relationships)
 
