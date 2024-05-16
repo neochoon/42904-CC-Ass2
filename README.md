@@ -68,10 +68,16 @@ Cloud Computing and Software as a Service Assignment (42904) Assignment 2 - Appl
 
 
 ### (v) Email Notification (Minimum two successful implementations of email notification automation process using workflow mechanisms)
-    Approved_Contract
+```
+Contract Approval Notifier
+```
+<img src="Contract%20Approval%20Notifier.jpg" alt="Contract Approval Notifier" width="1024"/>
 
 ### (vi) Task creation and assignment (Minimum one successful implementation of task creation and automation process using workflow mechanisms)
 
 
 ### (vii) Time-based workflow (Minimum one successful implementation of time-based workflow)
-
+```
+Start Date Integrity Guard
+```
+<img src="Start%20Date%20Integrity%20Guard.jpg" alt="Start Date Integrity Guard" width="1024"/>
