@@ -48,7 +48,7 @@ Cloud Computing and Software as a Service Assignment (42904) Assignment 2 - Appl
         Contracts Tab - hidden
         Document Object - Read, Update Only
 
-    Contract Operation Profile
+    Contract Operations Profile
         Every Objects and Tabs
 ```
 
