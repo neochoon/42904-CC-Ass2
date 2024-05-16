@@ -74,6 +74,10 @@ Contract Approval Notifier
 <img src="Contract%20Approval%20Notifier.jpg" alt="Contract Approval Notifier" width="1024"/>
 
 ### (vi) Task creation and assignment (Minimum one successful implementation of task creation and automation process using workflow mechanisms)
+```
+Contract Task Under Review
+```
+<img src="My%20Task.jpg" alt="My Task" width="1024"/>
 
 
 ### (vii) Time-based workflow (Minimum one successful implementation of time-based workflow)
